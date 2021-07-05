@@ -128,4 +128,6 @@ h4 {
     background-image: url(photos/expaa-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-position-y: bottom;
+    background-size: 5%;
 }
