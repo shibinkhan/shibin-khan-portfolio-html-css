@@ -39,3 +39,6 @@ a {
     text-decoration: none;
     color: black;
 }
+.banner-img, .about-img {
+    width: 400px;
+}
