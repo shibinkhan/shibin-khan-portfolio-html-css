@@ -25,3 +25,5 @@
     color: rgb(0, 225, 255);
 }
 .title, .time {
+    margin: 10px 0px;
+}
