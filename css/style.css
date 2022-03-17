@@ -81,3 +81,7 @@ a {
     border-left: 10px solid;
     border-image: linear-gradient(rgb(0, 255, 21), rgb(255, 208, 0));
     border-image-slice: 1;
+}
+
+footer {
+    background-image: url(../img/expaa-bg.png);
