@@ -74,3 +74,4 @@ a {
 }
 #exp-left {
     border-left: 10px solid;
+    border-image: linear-gradient(rgb(255, 0, 0), rgb(255, 208, 0));
