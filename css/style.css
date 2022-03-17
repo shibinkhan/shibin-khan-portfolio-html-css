@@ -78,3 +78,4 @@ a {
     border-image-slice: 1;
 }
 #exp-right {
+    border-left: 10px solid;
