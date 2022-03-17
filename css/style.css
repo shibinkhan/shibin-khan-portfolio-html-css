@@ -11,3 +11,4 @@
     padding: 50px;
     background-color: rgb(219, 250, 255);
     display: flex;
+    justify-content: space-around;
