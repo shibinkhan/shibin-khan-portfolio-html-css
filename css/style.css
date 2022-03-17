@@ -48,3 +48,4 @@ a {
     display: flex;
     justify-content: space-around;
     background-image: url(../img/awrw.png);
+    background-repeat: no-repeat;
