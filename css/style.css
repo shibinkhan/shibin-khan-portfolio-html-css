@@ -79,3 +79,4 @@ a {
 }
 #exp-right {
     border-left: 10px solid;
+    border-image: linear-gradient(rgb(0, 255, 21), rgb(255, 208, 0));
