@@ -16,3 +16,5 @@
     background-repeat: no-repeat;
 }
 .banner-left, .about-right {
+    width: 50%;
+    display: flex;
