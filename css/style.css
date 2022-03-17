@@ -65,3 +65,6 @@ a {
 .experiences {
     display: flex;
     justify-content: center;
+}
+.experience {
+    width: 45%;
