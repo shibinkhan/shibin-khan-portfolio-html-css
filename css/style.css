@@ -27,3 +27,5 @@
 .title, .time {
     margin: 10px 0px;
 }
+.hire-btn, .resume-btn {
+    border: none;
