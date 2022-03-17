@@ -64,3 +64,4 @@ a {
 }
 .experiences {
     display: flex;
+    justify-content: center;
