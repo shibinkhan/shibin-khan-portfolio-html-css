@@ -61,3 +61,6 @@ a {
     background-repeat: no-repeat;
     background-size: 150px;
     background-position-y: center;
+}
+.experiences {
+    display: flex;
