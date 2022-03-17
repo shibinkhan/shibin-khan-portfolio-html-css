@@ -13,3 +13,4 @@
     display: flex;
     justify-content: space-around;
     background-image: url(../img/exp-bg.png);
+    background-repeat: no-repeat;
