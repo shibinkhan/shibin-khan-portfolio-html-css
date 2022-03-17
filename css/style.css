@@ -70,3 +70,7 @@ a {
     width: 45%;
     padding: 50px;
     margin: 50px;
+    box-shadow: 0px 10px 50px rgb(122, 122, 122);
+}
+#exp-left {
+    border-left: 10px solid;
