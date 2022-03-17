@@ -87,3 +87,6 @@ footer {
     background-image: url(../img/expaa-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+footer p {
+    padding: 42px 0;
