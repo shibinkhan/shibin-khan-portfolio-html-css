@@ -3,7 +3,8 @@
     font-family: 'Poppins';
 }
 .body {
-    
+    width: 1280px;
+    margin: 0 auto;
 }
 
 /* banner and about */
